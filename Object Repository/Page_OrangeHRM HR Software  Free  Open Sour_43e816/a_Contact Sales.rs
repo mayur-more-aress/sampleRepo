@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact Sales</name>
+   <tag></tag>
+   <elementGuidId>82f087bf-6088-4b1d-bcf5-7d9e29804fef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-navbar']/ul[3]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>402b6feb-86f0-4a4e-b488-f79bcc414203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/contact-sales/</value>
+      <webElementGuid>fb464434-a400-4bcc-8d24-a75ad42175a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-orange contact-ohrm </value>
+      <webElementGuid>02b42923-5497-46c9-9288-05d321287bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Sales</value>
+      <webElementGuid>c5735bf2-0702-4a75-afb8-eb296864f0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navbar&quot;)/ul[@class=&quot;nav navbar-nav navbar-right extended-nav&quot;]/li[@class=&quot;ex-nav&quot;]/a[@class=&quot;btn-orange contact-ohrm&quot;]</value>
+      <webElementGuid>eb30612a-5121-4bc7-8ea9-b4b0010043c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-navbar']/ul[3]/li/a</value>
+      <webElementGuid>341cf7e8-f24b-4eb5-9cd6-fbeb96069ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Sales')]</value>
+      <webElementGuid>40e80ee9-692f-4155-bdaf-bf4687efd68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[2]/following::a[1]</value>
+      <webElementGuid>1aac6abf-e85f-4657-bdd0-f8cfc23eaeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News Articles'])[2]/following::a[2]</value>
+      <webElementGuid>d5d7dba0-2095-45cc-8dbe-0c02b1e5643f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book a Free Demo'])[1]/preceding::a[1]</value>
+      <webElementGuid>267af4a2-896a-4553-985f-38a3190eb42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::a[2]</value>
+      <webElementGuid>626cec99-e3d5-413b-9edc-49dedc1a4e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Sales']/parent::*</value>
+      <webElementGuid>db3f5469-2ebd-49ef-9987-f89f60811f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/contact-sales/')]</value>
+      <webElementGuid>6595c052-3ba2-4d88-a16f-2395d82b5ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li/a</value>
+      <webElementGuid>e10697ed-d01d-4161-bd88-954f3239b8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/contact-sales/' and (text() = 'Contact Sales' or . = 'Contact Sales')]</value>
+      <webElementGuid>f9ad3d58-e06f-415c-9c7c-c1a06f449b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

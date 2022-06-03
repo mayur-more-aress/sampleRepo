@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Book a Free Demo</name>
+   <tag></tag>
+   <elementGuidId>20962a6c-ffda-4cec-a455-5d1a06c610f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-navbar']/ul[3]/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5030dc70-cf21-47c7-9a40-b5cf49b48bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hris-hr-software-demo/</value>
+      <webElementGuid>63df65bc-c3a9-4181-bf85-f781496554c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-orange trial-btn pulse </value>
+      <webElementGuid>c0aaeacc-d587-4a87-a8a9-9fcb3078eeb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book a Free Demo</value>
+      <webElementGuid>e02f0185-6a97-43d9-bd33-3111a5084e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navbar&quot;)/ul[@class=&quot;nav navbar-nav navbar-right extended-nav&quot;]/li[@class=&quot;ex-nav&quot;]/a[@class=&quot;btn-orange trial-btn pulse&quot;]</value>
+      <webElementGuid>2c995009-eb9f-44b6-982e-bf42a87dfa1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-navbar']/ul[3]/li[2]/a</value>
+      <webElementGuid>66d97ea2-4f4d-443c-a587-ff56a3272ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book a Free Demo')]</value>
+      <webElementGuid>1b79a33c-01d6-4ffd-8195-4a147ff13b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Sales'])[1]/following::a[1]</value>
+      <webElementGuid>b48263c4-17e5-41b9-8ae4-2a2032ea8efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[2]/following::a[2]</value>
+      <webElementGuid>a33df1c7-b74b-446f-b2d4-f80bfe1d0f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::a[1]</value>
+      <webElementGuid>181912d3-b6d2-4a6c-91a8-e2c22cf89ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ES'])[1]/preceding::a[2]</value>
+      <webElementGuid>6a71d76a-f652-47f9-bf25-4b2749b3de05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book a Free Demo']/parent::*</value>
+      <webElementGuid>b29f66e5-9644-4a0b-872c-b4443789a4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hris-hr-software-demo/')]</value>
+      <webElementGuid>15428b1f-3d17-47a1-9333-f97234138e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li[2]/a</value>
+      <webElementGuid>b1c0854f-fd83-4c97-a25c-5b134e69e22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hris-hr-software-demo/' and (text() = 'Book a Free Demo' or . = 'Book a Free Demo')]</value>
+      <webElementGuid>43cf129d-b2c2-4837-b36b-be1e5038c893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

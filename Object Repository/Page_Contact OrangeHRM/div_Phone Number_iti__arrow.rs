@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Phone Number_iti__arrow</name>
+   <tag></tag>
+   <elementGuidId>08d0c7ca-58f8-4a9d-a9a0-cece190c6241</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Form_submitForm_Code_Holder']/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.iti__arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>746b44f4-eceb-4c90-bb0a-f1a978f104b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iti__arrow</value>
+      <webElementGuid>0a50b928-63b1-4d13-a2ea-66ba97b88441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form_submitForm_Code_Holder&quot;)/div[@class=&quot;middleColumn&quot;]/div[@class=&quot;iti iti--allow-dropdown&quot;]/div[@class=&quot;iti__flag-container&quot;]/div[@class=&quot;iti__selected-flag&quot;]/div[@class=&quot;iti__arrow&quot;]</value>
+      <webElementGuid>2a4bad3a-bd44-432a-8e99-fb2f25985f4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Form_submitForm_Code_Holder']/div/div/div/div/div[2]</value>
+      <webElementGuid>1f5a78d7-b7e8-4bc2-aab2-c4b7a1682df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]</value>
+      <webElementGuid>fb32bf39-abb6-4b19-b562-62ea254cda54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
