@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Softw
     'Name')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Last Name_LastName'), 
-    'last Name')
+    'last_Name')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Email_Email'), 
     'mayur@gmail.com')
