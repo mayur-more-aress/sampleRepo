@@ -38,5 +38,3 @@ WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Softw
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/select_- Select Country -AfghanistanAlbania_67af3b'), 
     'Bahamas', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Country_action_request'))
-

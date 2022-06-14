@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.orangehrm.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_OrangeHRM HR Software  Free  Open Sour_43e816/a_Book a Free Demo'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_First Name_FirstName'), 
+    'Name')
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Last Name_LastName'), 
+    'last_Name')
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Email_Email'), 
+    'mayur@gmail.com')
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Phone Number_Contact'), 
+    '904990748')
+

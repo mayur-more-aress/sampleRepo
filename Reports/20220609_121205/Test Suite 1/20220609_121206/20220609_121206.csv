@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 1,Chrome 102.0.5005.63,,,2022-06-09 12:12:09,2022-06-09 12:13:46,1m - 37.252s,FAILED
+,,,,,,,
+Test Cases/Test Case 1,Chrome 102.0.5005.63,,,2022-06-09 12:12:09,2022-06-09 12:13:46,1m - 36.468s,FAILED
+"openBrowser("""")",Chrome 102.0.5005.63,,,2022-06-09 12:12:09,2022-06-09 12:12:26,16.718s,PASSED
+"navigateToUrl(""https://www.orangehrm.com/"")",Chrome 102.0.5005.63,,,2022-06-09 12:12:26,2022-06-09 12:12:42,15.923s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM HR Software  Free  Open Sour_43e816/a_Book a Free Demo""))",Chrome 102.0.5005.63,,,2022-06-09 12:12:42,2022-06-09 12:12:55,12.806s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_First Name_FirstName""), ""Name"")",Chrome 102.0.5005.63,,,2022-06-09 12:12:55,2022-06-09 12:13:02,6.700s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Last Name_LastName""), ""last_Name"")",Chrome 102.0.5005.63,,,2022-06-09 12:13:02,2022-06-09 12:13:03,1.094s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Email_Email""), ""mayur@gmail.com"")",Chrome 102.0.5005.63,,,2022-06-09 12:13:03,2022-06-09 12:13:04,0.916s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Phone Number_Contact""), ""904990748"")",Chrome 102.0.5005.63,,,2022-06-09 12:13:04,2022-06-09 12:13:05,1.038s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/select_- Select Country -AfghanistanAlbania_67af3b""), ""Bahamas"", true)",Chrome 102.0.5005.63,,,2022-06-09 12:13:05,2022-06-09 12:13:11,6.591s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign Up for a Free HR Software Demo  O_589e71/input_Country_action_request""))",Chrome 102.0.5005.63,,,2022-06-09 12:13:11,2022-06-09 12:13:46,34.451s,FAILED
+,,,,,,,
+Test Cases/contactUS,Chrome 102.0.5005.63,,,2022-06-09 12:13:46,2022-06-09 12:13:46,0.160s,PASSED
+return null,Chrome 102.0.5005.63,,,2022-06-09 12:13:46,2022-06-09 12:13:46,0.000s,PASSED
